@@ -1,3 +1,4 @@
 # laughing-octo-system
-General purpose repository
-The name was suggested by Githb, so why not?
+General purpose repository.
+
+The name was suggested by Github, so why not?
